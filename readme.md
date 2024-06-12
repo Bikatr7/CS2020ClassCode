@@ -6,7 +6,7 @@
 - **Semester:** Spring 2022
 
 ## Description
-This repository contains the coursework for CS 2020 at the University of Colorado Colorado Springs, developed during the Spring 2022 semester. The project is implemented in R, but formatted in PDFs.
+This repository contains the coursework for CS 2020 at the University of Colorado Colorado Springs, developed during the Spring 2022 semester. With all code implemented in R, but formatted in PDFs.
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) file for details.
